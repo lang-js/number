@@ -1,0 +1,24 @@
+{
+  "name": "lang-js-number",
+  "version": "0.1.0",
+  "description": "format a number",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cldr": "^3.0.0",
+    "uglify-js": "^2.4.24"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lang-js/number.git"
+  },
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lang-js/number/issues"
+  },
+  "homepage": "https://github.com/lang-js/number#readme"
+}
